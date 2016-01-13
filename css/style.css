@@ -1,0 +1,11 @@
+.jumbotron {
+  text-align: center;
+}
+
+#celebrity {
+  text-align: center;
+}
+
+#profession, #gender {
+  margin-right: 20px;
+}
