@@ -1,5 +1,6 @@
 $(document).ready(function() {
   $("form#celebrity").submit(function(event) {
+    $("#result").empty();
 
     var gender = $("select#gender").val();
     var profession = $("select#profession").val();
